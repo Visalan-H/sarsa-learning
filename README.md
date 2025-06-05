@@ -64,8 +64,8 @@ init_epsilon=0.1, min_epsilon=0.1, epsilon_decay_ratio=0.9, n_episodes=3000):
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/8ceb8778-a95b-4343-8e57-b9580afc4f27)
-![image](https://github.com/user-attachments/assets/9164c47c-a992-4961-abd5-62ba8fed828f)
-![image](https://github.com/user-attachments/assets/8f2fcc18-2ae2-4e35-b5a7-2a43ad472542)
+![image](https://github.com/user-attachments/assets/9dd587bf-872a-435e-9974-6911d8be04b5)
+![image](https://github.com/user-attachments/assets/d703a887-c5b1-406e-a22c-da8628dbfb02)
 
 
 ## RESULT:
